@@ -6,9 +6,10 @@
   
   touch .env
   
-  Open .env file and store your username, password, and desired file destination. 
-  Use the provided format at the bottom of this README.
-  
+  Open .env file and store your username, password, or API token.
+  Also store the path where you'd like to store this project.
+  (Format provided at bottom of READ.ME)  
+
   source ~/.my_commands.sh
 ```
 ### How to use
